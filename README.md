@@ -1,5 +1,5 @@
 # Hi
-I’m Pramana :D, first-year undergrad!
+I’m Pramana, I'm a first-year undergraduate!
 
 <!---
 PramanaSaldin/PramanaSaldin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
