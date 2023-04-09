@@ -13,6 +13,7 @@ Check out my [blog](https://pr4-kp.github.io/).
 - 📈 Numerical analysis
 - 🧠 Machine learning
 - 💫 Geometric group theory
+- 📊 CS for data science
 
 <!---
 PramanaSaldin/PramanaSaldin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
