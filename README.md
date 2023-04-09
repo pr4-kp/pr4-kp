@@ -1,7 +1,6 @@
-# 👋🏽 Hi, I'm Pramana!
+# Hi, I'm Pramana
 
-I'm an undergraduate studying mathematics. I'm active about mathematics on my [blog](https://pr4-kp.github.io/). I also post 
-all of my typesetted [notes](https://pr4-kp.github.io/notes/) on there.
+Check out my [blog](https://pr4-kp.github.io/). 
 
 ## Programming languages
 - 📝 Languages I'm learning: **Python**, **MATLAB**, $\LaTeX$, **Julia**, **C**
