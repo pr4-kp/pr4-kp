@@ -9,7 +9,7 @@ Check out my [blog](https://pr4-kp.github.io/).
 
 ## Topics I'm studying
 
-- 💢 Analysis (2nd semester)
+- 💢 Real analysis (2nd semester)
 - 📈 Numerical analysis
 - 🧠 Machine learning
 - 💫 Geometric group theory
