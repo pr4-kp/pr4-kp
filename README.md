@@ -5,8 +5,6 @@ Check out my [blog](https://pr4-kp.github.io/).
 ## Programming languages
 - 📝 Languages I'm learning: **Python**, **MATLAB**, $\LaTeX$, **Julia**, **C**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr4-kp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Topics I'm studying
 
 - 💢 Real analysis (2nd semester)
