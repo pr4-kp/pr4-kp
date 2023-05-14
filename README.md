@@ -7,11 +7,10 @@ Check out my [blog](https://pr4-kp.github.io/).
 
 ## Topics I'm studying
 
-- 💢 Real analysis (2nd semester)
-- 📈 Numerical analysis
+- ⭕️ Point set topology
+- 📶 Analysis
 - 🧠 Machine learning
 - 💫 Geometric group theory
-- 📊 CS for data science
 
 <!---
 PramanaSaldin/PramanaSaldin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
