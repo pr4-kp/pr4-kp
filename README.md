@@ -8,6 +8,7 @@ Check out my [blog](https://pr4-kp.github.io/).
 ## Topics I'm studying
 
 - ⭕️ Point set topology
+- 🔄 Commutative algebra
 - 📶 Analysis
 - 🧠 Machine learning
 - 💫 Geometric group theory
