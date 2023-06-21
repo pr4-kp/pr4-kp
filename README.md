@@ -7,7 +7,7 @@ Check out my [blog](https://pr4-kp.github.io/).
 
 ## Topics I'm studying
 
-- ⭕️ Point set topology
+- ➰ Algebraic topology
 - 🔄 Commutative algebra
 - 📶 Analysis
 - 🧠 Machine learning
