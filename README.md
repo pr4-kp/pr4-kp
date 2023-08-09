@@ -8,10 +8,8 @@ Check out my [blog](https://pr4-kp.github.io/).
 ## Topics I'm studying
 
 - ➰ Algebraic topology
-- 🔄 Commutative algebra
 - 📶 Analysis
 - 🧠 Machine learning
-- 💫 Geometric group theory
 
 <!---
 PramanaSaldin/PramanaSaldin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
