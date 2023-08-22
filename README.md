@@ -3,7 +3,7 @@
 Check out my [blog](https://pr4-kp.github.io/). 
 
 ## Programming languages
-- 📝 Languages I'm learning: **Python**, **MATLAB**, $\LaTeX$, **Julia**
+[![My Langs](https://skillicons.dev/icons?i=python,matlab,julia,latex)](https://skillicons.dev)
 
 ## Topics I'm studying
 
