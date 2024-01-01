@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Pramana</h1>
-
 Check out my [blog](https://pr4-kp.github.io/). 
 
 ## Programming languages
