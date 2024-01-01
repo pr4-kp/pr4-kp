@@ -1,4 +1,4 @@
-Check out my [blog](https://pr4-kp.github.io/). 
+Check out my [blog](https://pr4-kp.github.io/)!
 
 ## Programming languages
 [![My Langs](https://skillicons.dev/icons?i=python,latex,julia,matlab,java)](https://skillicons.dev)
