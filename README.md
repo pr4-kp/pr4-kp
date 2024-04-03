@@ -1,6 +1,6 @@
 Check out my [blog](https://pr4-kp.github.io/)!
 
-[Codeforces](https://codeforces.com/profile/pramana) | [Leetcode](https://leetcode.com/pramana/)
+[Codeforces](https://codeforces.com/profile/pramana)
 
 ## Programming languages
 [![My Langs](https://skillicons.dev/icons?i=python,latex,julia,matlab,java)](https://skillicons.dev)
